@@ -1,0 +1,14 @@
+<div class="footer-container">
+    <div class="footer">
+        <ul class="links">
+                        <li class="first" ><a href="http://localhost/magento/catalog/seo_sitemap/category/?___SID=U" title="Sitemap" >Sitemap</a></li>
+                                <li ><a href="http://localhost/magento/catalogsearch/term/popular/?___SID=U" title="Suchbegriffe" >Suchbegriffe</a></li>
+                                <li ><a href="http://localhost/magento/catalogsearch/advanced/?___SID=U" title="Erweiterte Suche" >Erweiterte Suche</a></li>
+                                <li ><a href="http://localhost/magento/sales/guest/form/?___SID=U" title="Bestellungen und Rücksendungen" >Bestellungen und Rücksendungen</a></li>
+                                <li ><a href="http://localhost/magento/contacts/?___SID=U" title="Kontaktieren Sie uns" >Kontaktieren Sie uns</a></li>
+                                <li class=" last" ><a href="http://localhost/magento/rss/?___SID=U" title="RSS" class="link-rss">RSS</a></li>
+            </ul>
+        <p class="bugs">Helfen Sie uns, Magento noch besser zu machen - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>Melden Sie alle Fehler</strong></a> (Version 1.9.0.1)</p>
+        <address>&copy; 2014 Madison Island. All Rights Reserved.</address>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Pw_Manageproducts>
+			<version>1.0.1</version>
+		</Pw_Manageproducts>
+	</modules>
+	<global>
+		<models/>
+		<blocks>
+			<manageproducts>
+				<class>Pw_Manageproducts_Block</class>
+			</manageproducts>
+		</blocks>	
+	</global>
+	<frontend>
+		<routers>
+			<manageproducts>
+				<use>standard</use>
+				<args>
+					  <module>Pw_Manageproducts</module>
+					  <frontName>manageproducts</frontName>
+				</args>
+			</manageproducts>
+		</routers>
+		<layout>
+			<updates>
+				<manageproducts>
+		   		      <file>pw/manageproducts.xml</file>
+				</manageproducts>
+			</updates>
+       	</layout>		
+	</frontend>
+	<default>
+		<manageproducts>
+			<product>
+			</product>
+		</manageproducts>
+	</default>
+</config>

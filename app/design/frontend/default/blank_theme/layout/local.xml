@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<default>
+        <reference name="head">
+			<action method="addCss"><stylesheet>css/local.css</stylesheet></action>
+        	 <action method="addItem"> <!-- Here was included jsFunctions.js ( action for specials ) -->
+		            <type>skin_js</type>
+		            <name>js/functions.js</name>
+            		<params/>
+        	</action>
+        </reference>
+        <reference name="catalog.leftnav"> 
+			<action method="unsetChild"><alias>category_filter</alias></action> <!-- here you can remove blocks -->
+		</reference>
+	</default>
+</layout>

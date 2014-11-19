@@ -1,0 +1,198 @@
+2014-10-24T08:28:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: Good_Luck line 4 and Good_luck  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:17+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/Good_luck&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:17+00:00 ERR (3): Warning: simplexml_load_string():                     ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:17+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: Good_Luck line 4 and Good_luck  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:31+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/Good_luck&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:31+00:00 ERR (3): Warning: simplexml_load_string():                     ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:28:31+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:36:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:36:21+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-24T08:36:21+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:17:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:17:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:17:49+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:17:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:17:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:17:58+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:18:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:18:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T05:18:05+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T08:58:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T08:58:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T08:58:28+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T08:58:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T08:58:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T08:58:38+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T11:10:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T11:10:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T11:10:31+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T11:11:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T11:11:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-10-28T11:11:00+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:42:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:42:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:42:41+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:43:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:43:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:43:01+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:44:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:44:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:44:22+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:44:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:44:46+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:44:46+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:56:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:56:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:56:55+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:57:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:57:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T03:57:22+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:34:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:34:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:34:44+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:34:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:34:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:34:50+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:35:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:35:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:35:02+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:39:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:39:08+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:39:08+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:42:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:42:21+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:42:21+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:47:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:47:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T04:47:44+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:08:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:08:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:08:01+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:08:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:08:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:08:24+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:10:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:10:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:10:42+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:12:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:12:21+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:12:21+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:18:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:18:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:18:47+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:19:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:19:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:19:22+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:20:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:20:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:20:42+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:21:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:21:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:21:40+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:26:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:26:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:26:37+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:27:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:27:39+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:27:39+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:34:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:34:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:34:15+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:36:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:36:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:36:31+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:42:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:42:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:42:13+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:46:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:46:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T05:46:12+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:03+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:11+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:46+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:46+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:33:56+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:44:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:44:21+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:44:21+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:44:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:44:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:44:44+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:45:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:45:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:45:15+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:51:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:51:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:51:49+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:30+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:38+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-01T06:53:48+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-05T05:49:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-05T05:49:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-05T05:49:48+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-05T05:50:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-05T05:50:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-05T05:50:18+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T04:07:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T04:07:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T04:07:41+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T04:07:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T04:07:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T04:07:52+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T05:37:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T05:37:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T05:37:45+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T05:38:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T05:38:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-06T05:38:15+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-10T07:31:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-10T07:31:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-10T07:31:17+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-10T08:11:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-10T08:11:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-10T08:11:25+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:23:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:23:43+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:23:43+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:23:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:23:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:23:52+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:34:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:34:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-11T10:34:01+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-12T12:06:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-12T12:06:04+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-12T12:06:04+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-12T12:06:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-12T12:06:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-12T12:06:05+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-14T06:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-14T06:58:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-14T06:58:47+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-15T09:41:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-15T09:41:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-15T09:41:19+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-19T05:55:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-19T05:55:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-19T05:55:48+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-19T08:07:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 7: parser error : Opening and ending tag mismatch: TestD4_Demo line 4 and Test_Demo  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-19T08:07:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/Test_Demo&gt;  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510
+2014-11-19T08:07:41+00:00 ERR (3): Warning: simplexml_load_string():             ^  in C:\xampp\htdocs\magento\lib\Varien\Simplexml\Config.php on line 510

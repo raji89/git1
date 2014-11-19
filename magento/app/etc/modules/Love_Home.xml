@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+<modules>
+<Love_Home>
+<active>true$It;</active>
+<depends>$It;</depends>
+<codePool>local$It</codePool>
+
+</Love_Home>
+</modules>
+</config>

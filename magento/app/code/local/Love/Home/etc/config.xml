@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<modules>
+<Love_Home>
+<version>0.1.0</version>
+</Love_Home>
+</modules>
+<global>
+<page>
+<layouts>
+<lovehome>
+<label>Love Home Page Layout</label>
+<template>rwd/default/template/page/lovehome.phtml</template>
+</lovehome>
+</layouts>
+</page>
+ <blocks>
+            <Love_Home>
+                <class>Love_Home_Block</class>
+            </Love_Home>
+        </blocks>
+</global>
+
+</config>

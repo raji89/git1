@@ -1,0 +1,244 @@
+<div class="widget widget-new-products">
+    <div class="widget-title">
+        <h2>New Products</h2>
+    </div>
+    <div class="widget-products">
+                <ol class="products-list">
+                    <li class="item">
+                <a href="http://localhost/magento/car1.html?___SID=U" title="car1" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/j/a/janod_wooden_farm_jo8524-2.jpg" width="85" height="85" alt="car1" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/car1.html?___SID=U" title="car1)">car1</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/891/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                <div class="price-box">
+            <p class="minimal-price">
+                                    <span class="price-label">Starting at:</span>
+                                                                        <span class="price" id="product-minimal-price-891-widget-new-list">
+                    Rs500.00                </span>
+                            </p>
+        </div>
+                                                        <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/product/891/form_key/eMsMFaYNIU58OsLs/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/891/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/891/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/fish1.html?___SID=U" title="fish1" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/f/4/f4.jpg" width="85" height="85" alt="fish1" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/fish1.html?___SID=U" title="fish1)">fish1</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/889/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-889-widget-new-list">
+                                            <span class="price">Rs700.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/product/889/form_key/eMsMFaYNIU58OsLs/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/889/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/889/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/chudi.html?___SID=U" title="Chudi" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/c/1/c1_1.jpg" width="85" height="85" alt="Chudi" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/chudi.html?___SID=U" title="Chudi)">Chudi</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/888/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-888-widget-new-list">
+                                            <span class="price">Rs500.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/product/888/form_key/eMsMFaYNIU58OsLs/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/888/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/888/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/cat1.html?___SID=U" title="cat1" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/l/1/l1664.jpg" width="85" height="85" alt="cat1" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/cat1.html?___SID=U" title="cat1)">cat1</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/890/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-890-widget-new-list">
+                                            <span class="price">Rs290.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/product/890/form_key/eMsMFaYNIU58OsLs/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/890/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/890/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/black-nolita-cami.html?___SID=U" title="Black Nolita Cami" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/w/b/wbk002t_2.jpg" width="85" height="85" alt="Black Nolita Cami" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/black-nolita-cami.html?___SID=U" title="Black Nolita Cami)">Black Nolita Cami</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/877/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-877-widget-new-list">
+                                            <span class="price">Rs150.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/black-nolita-cami.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/877/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/877/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/madison-island-vip-membership-1-year.html?___SID=U" title="Madison Island VIP Membership - 1 Year" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/v/i/vip_membership.jpg" width="85" height="85" alt="Madison Island VIP Membership - 1 Year" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/madison-island-vip-membership-1-year.html?___SID=U" title="Madison Island VIP Membership - 1 Year)">Madison Island VIP Membership - 1 Year</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/564/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-564-widget-new-list">
+                                            <span class="price">Rs350.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/madison-island-vip-membership-1-year.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/564/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/564/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/fire-kalima-remix-by-unannounced-guest.html?___SID=U" title="Fire [Kalima remix] by Unannounced Guest" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/u/n/unannouncedguest_.jpg" width="85" height="85" alt="Fire [Kalima remix] by Unannounced Guest" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/fire-kalima-remix-by-unannounced-guest.html?___SID=U" title="Fire [Kalima remix] by Unannounced Guest)">Fire [Kalima remix] by Unannounced Guest</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/563/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-563-widget-new-list">
+                                            <span class="price">Rs2.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/fire-kalima-remix-by-unannounced-guest.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/563/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/563/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/love-is-an-eternal-lie-by-the-sleeping-tree.html?___SID=U" title="Love is an Eternal Lie by The Sleeping Tree" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/s/l/sleepingtree_.jpg" width="85" height="85" alt="Love is an Eternal Lie by The Sleeping Tree" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/love-is-an-eternal-lie-by-the-sleeping-tree.html?___SID=U" title="Love is an Eternal Lie by The Sleeping Tree)">Love is an Eternal Lie by The Sleeping Tree</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/561/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-561-widget-new-list">
+                                            <span class="price">Rs2.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/love-is-an-eternal-lie-by-the-sleeping-tree.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/561/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/561/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item">
+                <a href="http://localhost/magento/can-t-stop-it-by-shearer.html?___SID=U" title="Can't Stop It by Shearer" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/s/h/shearer__2.jpg" width="85" height="85" alt="Can't Stop It by Shearer" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/can-t-stop-it-by-shearer.html?___SID=U" title="Can't Stop It by Shearer)">Can't Stop It by Shearer</a></h3>
+                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='http://localhost/magento/review/product/list/id/560/?___SID=U'; return false;">1 Review(s)</a></span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-560-widget-new-list">
+                                            <span class="price">Rs2.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/can-t-stop-it-by-shearer.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/560/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/560/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                    <li class="item last">
+                <a href="http://localhost/magento/if-you-were-by-keshco.html?___SID=U" title="If You Were by Keshco" class="product-image"><img src="http://localhost/magento/media/catalog/product/cache/1/small_image/85x/9df78eab33525d08d6e5fb8d27136e95/k/e/keshco_.jpg" width="85" height="85" alt="If You Were by Keshco" /></a>
+                <div class="product-shop">
+                    <div class="f-fix">
+                        <h3 class="product-name"><a href="http://localhost/magento/if-you-were-by-keshco.html?___SID=U" title="If You Were by Keshco)">If You Were by Keshco</a></h3>
+                            <p class="no-rating"><a href="http://localhost/magento/review/product/list/id/559/?___SID=U#review-form">Be the first to review this product</a></p>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-559-widget-new-list">
+                                            <span class="price">Rs2.00</span>                                    </span>
+                        
+        </div>
+
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/if-you-were-by-keshco.html?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="http://localhost/magento/wishlist/index/add/product/559/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="http://localhost/magento/catalog/product_compare/add/product/559/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2hvbWUvP19fX3N0b3JlPWRlZmF1bHQmX19fZnJvbV9zdG9yZT1nZXJtYW4,/form_key/eMsMFaYNIU58OsLs/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                </ol>
+    </div>
+</div>

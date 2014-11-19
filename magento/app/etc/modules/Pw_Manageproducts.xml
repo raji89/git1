@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Pw_Manageproducts>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Pw_Manageproducts>
+    </modules>
+</config>

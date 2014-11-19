@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+	<layout version="0.1.0">
+		<manageproducts_index_index>
+			<reference name="root">
+				<action method="setTemplate"><template>page/1column.phtml</template></action>
+       	 	</reference>
+			<reference name="content">
+            	<block type="manageproducts/manageproducts" name="manageproducts" template="pw/manageproducts/manageproducts.phtml"/>
+        	</reference>
+		</manageproducts_index_index>
+	</layout>

@@ -1,0 +1,63 @@
+/* ============================================ *
+ * Header - Account
+ * ============================================ */
+/* -------------------------------------------- *
+ * Skip Link - Account
+ */
+.skip-account:not(.skip-active):hover .icon {
+  background-position: -46px -44px;
+}
+.skip-account .icon {
+  background-position: 4px -44px;
+}
+
+@media only screen and (min-width: 981px) {
+  .skip-account {
+    position: absolute;
+    top: 0;
+    right: 115px;
+    width: auto;
+    padding: 0 10px;
+    text-transform: uppercase;
+  }
+
+  #header-account.skip-active {
+    background: #FBFBFB;
+    border: solid 1px #cccccc;
+    display: block;
+    position: absolute;
+    z-index: 200;
+    top: 40px;
+    right: 115px;
+    width: 200px;
+  }
+
+  #header-account a {
+    display: block;
+    padding: 5px 10px;
+    color: #636363;
+    line-height: 2;
+  }
+
+  #header-account a:hover {
+    color: #3399cc;
+  }
+}
+/* -------------------------------------------- *
+ * Account Links
+ */
+#header-account {
+  padding: 5px 0;
+}
+
+#header-account a {
+  position: relative;
+  display: block;
+  padding: 0 10px;
+  line-height: 33px;
+  text-align: center;
+}
+
+#header-account a:hover {
+  color: #3399cc;
+}
