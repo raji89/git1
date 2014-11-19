@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+ <global>
+  <cms>
+   <layouts>
+    <custom_static_page_name_here>
+     <label>Custom static page name</label>
+     <template>page/custom-static-page-name.phtml</template>
+     <layout_handle>page_custom-static-page-name</layout_handle>
+    </custom_static_page_name_here>
+   </layouts>
+  </cms>
+ </global>
+</config>
